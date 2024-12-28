@@ -82,7 +82,7 @@ Example Usage
 #### Install as a node module by cloning repository
 
 ```bash
-git clone https://github.com/zone117x/node-stratum-pool node_modules/stratum-pool
+git clone https://github.com/Sandokaaan/node-stratum-pool node_modules/stratum-pool
 npm update
 ```
 
