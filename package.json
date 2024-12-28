@@ -28,8 +28,7 @@
         "url": "https://github.com/Sandokaaan/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/Sandokaaan/node-multi-hashing.git",
-        "bignum": "0.12.5",
+        "bignum": "0.13.1",
         "base58-native": "*",
         "async": "*"
     },
