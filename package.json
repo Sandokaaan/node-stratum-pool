@@ -29,7 +29,7 @@
     },
     "dependencies": {
         "bignum": "0.13.1",
-        "bs58": "*",
+        "base58": "https://github.com/Sandokaaan/base58-s.git",
         "multi-hashing": "https://github.com/Sandokaaan/node-multi-hashing.git",     
         "async": "*"
     },
