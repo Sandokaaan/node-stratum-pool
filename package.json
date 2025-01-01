@@ -31,7 +31,7 @@
         "base58": "https://github.com/Sandokaaan/base58-s.git",
         "multi-hashing": "https://github.com/Sandokaaan/node-multi-hashing.git",
         "async": "*",
-        "deasync": "*",
+        "deasync": "*"
     },
     "engines": {
         "node": ">=20.00"
