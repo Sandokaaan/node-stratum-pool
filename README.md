@@ -62,10 +62,15 @@ May be working (needs additional testing):
 * ? __Qubit__
       
 Not working currently:
-* *Groestl* - for Myriadcoin
-* *Keccak* - for eCoin & Copperlark
-* *Hefty1* (Heavycoin [HVC])
-
+* *Blake*
+* *Scrypt-jane*
+* *Scrypt-n*
+* *Yescrypt*
+* *Sha1*
+* *S3*
+* *Lyra2re*
+* *Neoscrypt*
+* *Dcrypt*
 
 Requirements
 ------------
