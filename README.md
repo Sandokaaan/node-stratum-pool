@@ -45,25 +45,22 @@ Features
 #### Hashing algorithms supported:
 * ✓ __SHA256__ (Bitcoin, Freicoin, Peercoin/PPCoin, Terracoin, etc..)
 * ✓ __Scrypt__ (Litecoin, Dogecoin, Feathercoin, etc..)
-* ✓ __Scrypt-Jane__ (YaCoin, CopperBars, Pennies, Tickets, etc..)
-* ✓ __Scrypt-N__ (Vertcoin [VTC])
+* ✓ __Scrypt-og__ 
 * ✓ __Quark__ (Quarkcoin [QRK])
 * ✓ __X11__ (Darkcoin [DRK], Hirocoin, Limecoin)
 * ✓ __X13__ (MaruCoin, BoostCoin)
-* ✓ __X16R__ (PexaCoin, RavenCoin)
-* ✓ __X16RV2__ (PexaCoin, RavenCoin)
+* ✓ __X15__ 
 * ✓ __NIST5__ (Talkcoin)
-* ✓ __Keccak__ (Maxcoin [MAX], HelixCoin, CryptoMeth, Galleon, 365coin, Slothcoin, BitcointalkCoin)
 * ✓ __Skein__ (Skeincoin [SKC])
-* ✓ __Groestl__ (Groestlcoin [GRS])
-
+ 
 May be working (needs additional testing):
-* ? *Blake* (Blakecoin [BLC])
-* ? *Fugue* (Fuguecoin [FC])
-* ? *Qubit* (Qubitcoin [Q2C], Myriadcoin [MYR])
-* ? *SHAvite-3* (INKcoin [INK])
-* ? *Sha1* (Sha1coin [SHA], Yaycoin [YAY])
-
+* ? __Fugue__
+* ? __Groestl__
+* ? __Hefty1__
+* ? __Keccak__
+* ? __Shavite3__
+* ? __Qubit__
+      
 Not working currently:
 * *Groestl* - for Myriadcoin
 * *Keccak* - for eCoin & Copperlark
@@ -72,7 +69,7 @@ Not working currently:
 
 Requirements
 ------------
-* node v0.10+
+* node v.22+
 * coin daemon (preferably one with a relatively updated API and not some crapcoin :p)
 
 
@@ -371,14 +368,9 @@ Donations
 ---------
 To support development of this project feel free to donate :)
 
-* BTC: `1KRotMnQpxu3sePQnsVLRy3EraRFYfJQFR`
-* LTC: `LKfavSDJmwiFdcgaP1bbu46hhyiWw5oFhE`
-* VTC: `VgW4uFTZcimMSvcnE4cwS3bjJ6P8bcTykN`
-* MAX: `mWexUXRCX5PWBmfh34p11wzS5WX2VWvTRT`
-* QRK: `QehPDAhzVQWPwDPQvmn7iT3PoFUGT7o8bC`
-* DRK: `XcQmhp8ANR7okWAuArcNFZ2bHSB81jpapQ`
-* DOGE: `DBGGVtwAAit1NPZpRm5Nz9VUFErcvVvHYW`
-* Cryptsy Trade Key: `254ca13444be14937b36c44ba29160bd8f02ff76`
+* BTC: `3P5xpMWe53GZDb54x6hBBYYPFzpfpyFMcD`
+* LTC: `MRk8ngGtWwpF7U5PhdyPvcMBbcJuuSLMQx`
+* DOGE: `D7r3p4CaKaHi92v74BVPGLxrtCXNeoSTcG`
 
 License
 -------
